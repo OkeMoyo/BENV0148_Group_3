@@ -2,3 +2,7 @@ data/
 models/
 __pycache__/
 *.h5
+data/
+models/
+__pycache__/
+*.h5
