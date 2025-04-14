@@ -4,5 +4,5 @@ __pycache__/
 *.h5
 #data/
 models/
-__pycache__/
+__pycache__/git
 *.h5
