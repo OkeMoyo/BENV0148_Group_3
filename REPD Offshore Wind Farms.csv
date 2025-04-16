@@ -1,0 +1,96 @@
+,Ref ID,Operator (or Applicant),Site Name,Technology Type,Installed Capacity (MWelec),Development Status (short),County,Region,Country,X-coordinate,Y-coordinate,Planning Permission Granted,Under Construction,Operational
+2006,2470,Scottish Power Renewables,East Anglia 3 (EA 3),Wind Offshore,1400,Under Construction,Offshore,Offshore,England,685500,257000,07/08/2017,01/08/2022,
+2007,2471,Scottish Power Renewables,East Anglia 1 North (EA 4),Wind Offshore,800,Awaiting Construction,Offshore,Offshore,England,685500,257000,31/03/2022,,
+2008,2472,Orsted (formerly Dong Energy),Hornsea 3,Wind Offshore,2955,Awaiting Construction,Offshore,Offshore,England,626000,426000,30/12/2020,,
+2009,2473,Orsted (formerly Dong Energy),Hornsea 4,Wind Offshore,2600,Awaiting Construction,Offshore,Offshore,England,626000,426000,12/07/2023,,
+2010,2475,Celtpower,Cirrus Shell Flat Array,Wind Offshore,284,Application Withdrawn,Offshore,Offshore,England,323355,443490,,,
+2011,2476,EDF,Cromer ,Wind Offshore,108,Abandoned,Offshore,Offshore,England,630840,351080,,,
+2012,2477,E.On  / Energie 2,Scarweather Sands ,Wind Offshore,108,Application Withdrawn,Offshore,Offshore,Wales,272400,171520,,,
+2013,2479,Statoil,Hywind Scotland Pilot Park (Hywind 2) Demonstrator,Wind Offshore,30,Operational,Offshore,Offshore,Scotland,433500,846500,30/10/2015,27/04/2017,27/10/2017
+2014,2484,RWE Renewables UK Limited,The East Anglia Array - Norfolk Vanguard,Wind Offshore,2800,Awaiting Construction,Offshore,Offshore,England,708047,312194,11/02/2022,,
+2015,2485,Talisman Energy,Beatrice Demonstrator,Wind Offshore,10,Operational,Offshore,Offshore,Scotland,347955,929690,15/06/2006,01/09/2006,17/07/2007
+2016,2486,Blyth Harbor Wind Ltd,Blyth Offshore ,Wind Offshore,4,Decommissioned,Offshore,Offshore,England,432608,582536,22/09/1998,01/08/2000,01/12/2000
+2017,2487,Orsted (formerly Dong Energy),Burbo Bank,Wind Offshore,90,Operational,Offshore,Offshore,England,321476,399706,14/07/2006,01/08/2006,18/10/2007
+2018,2488,Orsted (formerly Dong Energy),Gunfleet Sands - (Demo) Extension,Wind Offshore,12,Operational,Offshore,Offshore,England,620650,205297,17/04/2012,15/05/2012,19/04/2013
+2019,2489,Orsted (formerly Dong Energy),Gunfleet Sands II ,Wind Offshore,64.8,Operational,Offshore,Offshore,England,624262,208150,28/02/2008,01/04/2009,24/07/2009
+2020,2490,Orsted (formerly Dong Energy),Gunfleet Sands Offshore Wind Scheme,Wind Offshore,108,Operational,Offshore,Offshore,England,622317,208468,01/03/2004,01/04/2009,24/07/2009
+2021,2491,XceCo,Inner Dowsing ,Wind Offshore,97.2,Operational,Offshore,Offshore,England,563561,368447,23/09/2003,01/03/2008,20/04/2008
+2022,2492,Vattenfall,Kentish Flats ,Wind Offshore,90,Operational,Offshore,Offshore,England,615015,178055,01/03/2003,01/06/2004,10/09/2005
+2023,2493,XceCo,Lynn,Wind Offshore,97.2,Operational,Offshore,Offshore,England,564095,362638,14/08/2004,01/03/2008,15/03/2008
+2024,2494,Greencoat (formerly Npower Renewables),North Hoyle ,Wind Offshore,60,Operational,Offshore,Offshore,Wales,303823,392138,31/07/2002,03/04/2003,01/12/2003
+2025,2495,RWE Npower,Rhyl Flats ,Wind Offshore,90,Operational,Offshore,Offshore,Wales,290990,388002,01/01/2003,01/09/2007,28/12/2009
+2026,2496,E.ON UK,Robin Rigg East,Wind Offshore,84,Operational,Offshore,Offshore,Scotland,291005,542348,16/06/2003,01/12/2006,28/04/2010
+2027,2497,E.ON UK,Robin Rigg West,Wind Offshore,90,Operational,Offshore,Offshore,Scotland,288785,540522,16/06/2003,01/12/2006,18/07/2009
+2028,2498,E.ON UK,Scroby Sands ,Wind Offshore,60,Operational,Offshore,Offshore,England,656417,311874,01/12/2002,01/10/2003,01/03/2004
+2029,2499,Vattenfall,Thanet ,Wind Offshore,300,Operational,Offshore,Offshore,England,652658,176367,18/12/2006,01/11/2009,16/09/2010
+2030,2500,Orsted (formerly Dong Energy),Walney 1,Wind Offshore,183.6,Operational,Offshore,Offshore,England,300833,461449,07/11/2007,10/03/2010,30/05/2011
+2031,2502,Orsted (formerly Dong Energy),Hornsea 2 - Optimus and Breesea,Wind Offshore,1320,Operational,Offshore,Offshore,England,632326,457349,16/08/2016,01/09/2019,31/08/2022
+2032,2504,Vattenfall,Kentish Flats 2,Wind Offshore,49.5,Operational,Offshore,Offshore,England,614105,176834,19/02/2013,26/11/2014,14/09/2015
+2033,2505,Vattenfall,European Offshore Wind Deployment Centre (EOWDC) (Aberdeen Bay - Demonstration site),Wind Offshore,96.8,Operational,Offshore,Offshore,Scotland,395693,806148,26/03/2013,07/04/2018,07/09/2018
+2034,2506,Orsted (formerly Dong Energy),Walney 2,Wind Offshore,183.6,Operational,Offshore,Offshore,England,294836,466177,07/11/2007,09/04/2011,06/04/2012
+2035,2507,London Array Ltd,London Array Phase 2,Wind Offshore,240,Abandoned,Offshore,Offshore,England,611280,179120,,,
+2036,2508,Npower,Atlantic Array One - Bristol Channel Zone,Wind Offshore,1200,Application Withdrawn,Offshore,Offshore,England,221400,166500,,,
+2037,2509,Vattenfall,Ormonde Offshore,Wind Offshore,150,Operational,Offshore,Offshore,England,306000,466842,04/09/2008,01/06/2010,22/02/2012
+2038,2510,Airtricity / Fluor Ltd,Greater Gabbard Wind Farm,Wind Offshore,504,Operational,Offshore,Offshore,England,670237,231640,20/02/2007,01/07/2009,07/09/2012
+2039,2511,Siemens Gamesa Renewable Energy,London Array Phase 1,Wind Offshore,630,Operational,Offshore,Offshore,England,642078,197218,05/09/2007,01/03/2011,06/04/2013
+2040,2512,Equinor,Sheringham Shoal ,Wind Offshore,317,Operational,Offshore,Offshore,England,610671,364425,07/08/2008,30/06/2009,29/10/2012
+2041,2513,Ørsted,Centrica (Lincs),Wind Offshore,270,Operational,Offshore,Offshore,England,567020,368144,21/10/2008,01/03/2010,24/07/2013
+2042,2514,EDF Energy - Northern Offshore Windfarm Ltd,Teeside Offshore Wind Farm,Wind Offshore,62,Operational,Offshore,Offshore,England,458470,528174,17/09/2007,01/02/2012,31/08/2013
+2043,2515,Orsted (formerly Dong Energy)/ Macquarie Group,Race Bank (Phase 1),Wind Offshore,289.8,Operational,Offshore,Offshore,England,573300,363000,06/07/2012,07/07/2016,08/06/2017
+2044,2516,Centrica,Docking Shoal A,Wind Offshore,540,Application Refused,Offshore,Offshore,England,588560,366879,,,
+2045,2517,"SSE/Equinor (formerly Statoil, formerly Forewind)",Dogger Bank C (was Teesside A),Wind Offshore,1200,Under Construction,Offshore,Offshore,England,675550,599192,05/08/2015,01/03/2022,
+2046,2519,Scottish Power Renewables & Orsted (formerly Dong Energy),West of Duddon Sands,Wind Offshore,389,Operational,Offshore,Offshore,England,304230,455334,04/09/2008,21/05/2013,30/10/2014
+2047,2520, E.ON UK,Rampion Offshore Wind Farm (Hastings Zone),Wind Offshore,400,Operational,Offshore,Offshore,England,528790,83836,16/07/2014,25/01/2016,26/11/2017
+2048,2521,Scottish & Southern Energy (SSE) / Repsol / CIP,Beatrice,Wind Offshore,588,Operational,Offshore,Offshore,Scotland,344074,911416,19/03/2014,02/04/2017,05/08/2019
+2049,2522,EDF Renewables Power,Neart na Gaoithe,Wind Offshore,450,Under Construction,Offshore,Offshore,Scotland,384615,708641,16/05/2017,01/01/2020,
+2050,2523,EDF Energy Renewables,Blyth Offshore Wind Test Site,Wind Offshore,41.5,Operational,Offshore,Offshore,England,440591,586033,08/11/2013,22/10/2016,22/10/2017
+2051,2524,Scottish Power Renewables,East Anglia 1 (EA 1),Wind Offshore,714,Operational,Offshore,Offshore,England,685500,257000,17/06/2014,24/05/2018,28/07/2020
+2052,2525,Orsted (formerly Dong Energy),Hornsea 1 - Heron & Njord,Wind Offshore,1218,Operational,Offshore,Offshore,England,626000,426000,10/12/2014,26/01/2018,01/12/2019
+2053,2526,RWE Npower Renewables,Galloper Wind Farm,Wind Offshore,353,Operational,Offshore,Offshore,England,678139,227875,24/05/2013,29/07/2016,30/03/2018
+2054,2527,Red Rock Power (ICOL),Inch Cape,Wind Offshore,1080,Awaiting Construction,Offshore,Offshore,Scotland,387786,734231,16/05/2017,,
+2055,2528,Catapult,Levenmouth demonstration turbine (Fife Energy Park),Wind Offshore,7,Operational,Offshore,Offshore,Scotland,340600,696860,18/11/2011,08/10/2013,31/03/2014
+2056,2532,Innogy,Triton Knoll ,Wind Offshore,857,Operational,Offshore,Offshore,England,591183,372179,11/07/2013,10/09/2018,13/01/2022
+2057,2533,Orsted (formerly Dong Energy),Walney 3,Wind Offshore,659,Operational,Offshore,Offshore,England,286289,467410,07/11/2014,01/04/2017,13/09/2018
+2058,2534,"Diamond Green Limited, CTG & Ocean Winds",Moray East,Wind Offshore,950,Operational,Offshore,Offshore,Scotland,353328,897834,19/03/2014,06/06/2019,01/04/2022
+2059,2535,Eneco & EDF,Navitus Bay,Wind Offshore,970,Application Refused,Offshore,Offshore,England,411540,54803,,,
+2060,2538,Statoil / Statkraft,Dudgeon East ,Wind Offshore,402,Operational,Offshore,Offshore,England,575000,361000,06/07/2012,17/03/2016,15/10/2017
+2061,2539,Orsted (formerly Dong Energy),Burbo Bank Extension (Burbo Bank 2),Wind Offshore,258,Operational,Offshore,Offshore,England,315815,398892,10/12/2014,10/06/2016,27/04/2017
+2062,2540,SSE / Seagreen Wind Energy Ltd,Seagreen,Wind Offshore,1075,Operational,Offshore,Offshore,Scotland,404600,749300,16/05/2017,01/05/2021,16/10/2023
+2063,2541,"SSE/Equinor (formerly Statoil, formerly Forewind)",Dogger Bank A & B (was Creyke Beck A & B),Wind Offshore,2400,Under Construction,Offshore,Offshore,England,629000,681000,17/02/2015,01/07/2021,
+2064,2543,RWE,Gwynt y Mor ,Wind Offshore,576,Operational,Offshore,Offshore,Wales,292082,396482,03/12/2008,01/03/2012,18/06/2015
+2065,2544,E.ON Humber Wind Ltd/ Balfour Beatty Investments and Equitix.,Humber Gateway A,Wind Offshore,219,Operational,Offshore,Offshore,England,566400,390760,09/02/2011,30/08/2013,30/05/2015
+2066,2545,Orsted (formerly Dong Energy),Westermost Rough A,Wind Offshore,210,Operational,Offshore,Offshore,England,571600,358680,29/11/2011,28/02/2014,26/05/2015
+2067,2546,Orsted (formerly Dong Energy),Barrow ,Wind Offshore,90,Operational,Offshore,Offshore,England,314978,455827,12/03/2003,01/05/2005,01/04/2006
+4714,5863,Cierco,Forthwind,Wind Offshore,,Revised,Offshore,Offshore,Scotland,338141,696278,21/12/2016,,
+4717,5867,Scottish Power Renewables,East Anglia 2 (EA 2),Wind Offshore,900,Awaiting Construction,Offshore,Offshore,England,681603,321858,31/03/2022,,
+4893,6136,Grupo Cobra,Kincardine Offshore Windfarm,Wind Offshore,49.5,Operational,Offshore,Offshore,Scotland,407766,789575,07/03/2017,01/10/2018,19/10/2021
+4902,6158,EDPR,Moray West Offshore Wind Farm Project,Wind Offshore,882,Under Construction,Offshore,Offshore,Scotland,322637,909733,14/06/2019,01/05/2022,
+4976,6264,Hexicon AB/ Dounreay Tri,Dounreay Trì Floating Wind Demonstration,Wind Offshore,10,Under Construction,Offshore,Offshore,Scotland,291337,980477,16/03/2017,31/03/2017,
+4993,6299,Vattenfall,Thanet (extension),Wind Offshore,340,Application Refused,Offshore,Offshore,England,649878,175192,,,
+5071,6483,RWE Renewables UK Limited,The East Anglia Array - Norfolk Boreas,Wind Offshore,1400,Awaiting Construction,Offshore,Offshore,England,708047,312194,10/12/2021,,
+5083,6501,Orsted (formerly Dong Energy)/ Macquarie Group,Race Bank (Phase 2),Wind Offshore,283.5,Operational,Offshore,Offshore,England,573300,363000,,07/07/2016,01/02/2018
+5109,6556,RWE Renewables UK Limited,Sofia (Teesside B),Wind Offshore,1400,Under Construction,Offshore,Offshore,England,675550,599192,05/08/2015,01/03/2022,
+5239,6810,Hexicon,TwinHub (previously called Wave Hub Floating Wind),Wind Offshore,32,Awaiting Construction,Offshore,Offshore,England,155246,38189,12/01/2022,,
+5855,7691,Equinor,Sheringham Extension Project,Wind Offshore,317,Awaiting Construction,Offshore,Offshore,England,613032,366092,18/04/2024,,
+5856,7692,Equinor,Dudgeon Extension Project,Wind Offshore,402,Awaiting Construction,Offshore,Offshore,England,613032,366092,18/04/2024,,
+5859,7698,RWE Renewables UK Limited,"Rampion Wind Farm (Extension), (Rampion 2)",Wind Offshore,,Application Submitted,Offshore,Offshore,England,528790,83836,,,
+5860,7699,RWE Renewables,Awel y Mor Offshore Wind Farm,Wind Offshore,576,Awaiting Construction,Offshore,Offshore,Wales,280451,398028,20/09/2023,,
+5967,7861,Simply Blue Energy,Erebus - Floating Offshore Wind Demonstration Project,Wind Offshore,100,Awaiting Construction,Offshore,Offshore,Wales,196768,194102,17/02/2023,,
+6894,9803,RWE Renewables,Five Estuaries - Wind Farm,Wind Offshore,300,Application Submitted,Offshore,Offshore,England,630357,234771,,,
+6935,9873,Scottish Southern Energy Renewables ,Berwick Bank Offshore Wind Farm ,Wind Offshore,4100,Application Submitted,Offshore,Offshore,Scotland,432997,728012,,,
+7338,10772,Total Energies / RIDG,West of Orkney Wind Farm,Wind Offshore,2000,Application Submitted,Offshore,Offshore,Scotland,289696,998864,,,
+7421,10913,RWE Generation UK Plc / SSE Renewables (Ireland) ,North Falls Offshore Wind Farm,Wind Offshore,,Application Submitted,Offshore,Offshore,England,,,,,
+7426,10918,BP Oil UK Limited / ENBW UK Limited,Mona Offshore Wind Farm,Wind Offshore,1500,Application Submitted,Offshore,Offshore,England,278986,416968,,,
+7427,10919,BP Oil UK Limited / ENBW UK Limited,Morgan Offshore Wind Farm,Wind Offshore,1500,Application Submitted,Offshore,Offshore,England,,,,,
+7428,10922,Cobra Instalaciones y Servicios S.A / Flotation Energy,Morecombe Offshore Windfarm,Wind Offshore,480,Application Submitted,Offshore,Offshore,England,,,,,
+7511,11035,Orsted / Simply Blue Group,Peterhead - The Salamander Project,Wind Offshore,100,Application Submitted,Offshore,Offshore,Scotland,479551,858320,,,
+7546,11106,EDF Energy Renewables,Blyth Offshore Wind Farm Phase 2 Demonstrator Project,Wind Offshore,58.4,Awaiting Construction,Offshore,Offshore,England,440591,586033,09/09/2022,,
+7548,11109,RWE Renewables UK Limited / Masdar,Dogger Bank South East & South West,Wind Offshore,3000,Application Submitted,Offshore,Offshore,England,,,,,
+7885,11663,Green Investment Group / Total Energies,Outer Dowsing Offshore Wind Farm,Wind Offshore,1500,Application Submitted,Offshore,Offshore,England,641340,395479,,,
+7992,11851,Flotation Energy / Vårgrønn,Green Volt - Offshore Wind Farm,Wind Offshore,560,Awaiting Construction,Offshore,Offshore,Scotland,399571,807062,19/04/2024,,
+7993,11852,Flotation Energy / Cobra Instalaciones Servicios,Whitecross - Offshore Wind Farm,Wind Offshore,100,Application Submitted,Offshore,Offshore,England,248194,132186,,,
+8090,11989,Highland Wind Limited / Copenhagen Infrastructure Partners / Eurus Energy,Pentland Floating Offshore Wind Farm,Wind Offshore,100,Awaiting Construction,Offshore,Offshore,Scotland,311532,968614,28/06/2023,,
+9047,13429,Scottish Power Renewables,Ossian,Wind Offshore,3600,Application Submitted,Offshore,Scotland,Scotland,,,,,
+9567,14144,SSE / Seagreen Wind Energy Ltd,Seagreen Phase 1A,Wind Offshore,540,Awaiting Construction,Offshore,Offshore,Scotland,404600,749300,06/12/2019,,
+9801,14484,Cierco,Forthwind,Wind Offshore,20,Awaiting Construction,Offshore,Offshore,Scotland,338141,696278,15/03/2023,,
+9802,14491,TotalEnergies,Culzean Floating Wind Pilot,Wind Offshore,3,Awaiting Construction,Offshore,Offshore,Scotland,634310,817848,22/08/2024,,
