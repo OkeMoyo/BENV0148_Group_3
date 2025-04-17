@@ -6,3 +6,6 @@ __pycache__/
 models/
 __pycache__/git
 *.h5
+#useful for mac users:
+.DS_Store
+**/.DS_Store
